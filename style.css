@@ -19,8 +19,8 @@ th { background: #f0f0f0; }
 blockquote { border-left: 4px solid #2f6f4f; margin: 1em 0; padding: 0.5em 1em; background: #f6faf7; }
 .meta { color: #555; font-size: 0.9em; }
 .breadcrumb { color: #555; font-size: 0.9em; }
-.anh-de-xuat { border: 1px dashed #999; background: #fafafa; padding: 12px 16px; margin: 1.5em 0; }
-.anh-de-xuat h2 { margin-top: 0; }
+figure { margin: 1.5em 0; }
+figcaption { font-size: 0.9em; color: #555; margin-top: 0.4em; }
 .article-list { list-style: none; padding: 0; }
 .article-list li { margin-bottom: 1em; }
 .article-list li p { margin: 0.2em 0 0; color: #444; }

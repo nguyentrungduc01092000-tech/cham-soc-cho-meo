@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>Biểu tượng website Chăm sóc chó mèo tại nhà</title>
+  <desc>Hình vuông bo góc màu vàng mật ong, bên trong là dấu chân chó mèo màu trắng.</desc>
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="#a16207"/>
+  <ellipse cx="17" cy="30" rx="4.5" ry="6" fill="#fff" transform="rotate(-18 17 30)"/>
+  <ellipse cx="27" cy="23" rx="4.5" ry="6" fill="#fff" transform="rotate(-6 27 23)"/>
+  <ellipse cx="37" cy="23" rx="4.5" ry="6" fill="#fff" transform="rotate(6 37 23)"/>
+  <ellipse cx="47" cy="30" rx="4.5" ry="6" fill="#fff" transform="rotate(18 47 30)"/>
+  <ellipse cx="32" cy="42" rx="11" ry="8.5" fill="#fff"/>
+</svg>
